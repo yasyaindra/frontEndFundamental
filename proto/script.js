@@ -4,5 +4,7 @@ const profile = {
     age:19
 }
 
+//destructuring object
 const {firstName, age} = profile;
 console.log(age)
+
